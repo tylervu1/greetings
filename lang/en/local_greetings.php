@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Greetings';
+$string['invalidphone'] = 'Invalid phone number format. It should contain exactly 10 digits.';
